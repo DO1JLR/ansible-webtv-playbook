@@ -1,9 +1,9 @@
-[![MIT License](https://raw.githubusercontent.com/DO1JLR/ansible_playbook_template/master/.github/license.svg?sanitize=true)](https://github.com/DO1JLR/ansible_playbook_template/blob/master/LICENSE)
+[![MIT License](https://raw.githubusercontent.com/DO1JLR/ansible-webtv-playbook/main/.github/license.svg?sanitize=true)](https://github.com/DO1JLR/ansible-webtv-playbook/blob/master/LICENSE)
 
-Ansible playbook to set up ...something
+Ansible playbook to set up the rC3 Waffle WEBTV
 =========================================
 
-This is a ansible playbook to setup ... Server and maybe some other projects. We will see...
+This is a ansible playbook to setup the rC3 Waffle WEB-TV... It is a work in progress and currently not redy to use...
 
 
 
