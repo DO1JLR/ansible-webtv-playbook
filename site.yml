@@ -7,3 +7,8 @@
     - { role: ranger, tags: [packages,ranger]}
     - { role: bat, tags: [packages,bat], when: [ansible_os_family == 'Debian']}
     - { role: dotfiles, tags: [default,dotfiles]}
+
+- name: webtv requirements
+  hosts: webtv
+  roles:
+    - { role: icecast, tags: [webtv,icecast]}
